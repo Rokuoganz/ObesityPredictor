@@ -12,6 +12,17 @@ All'interno della repository è possibile trovare la documentazione ([ObesityPre
 
 * [Francesco Ferrara](https://github.com/Rokuoganz)
 
+## Strumenti e Tecnologie
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50"/>
+</div>
+
+- Python: linguaggio di programmazione utilizzato.
+- Google Colab: ambiente di sviluppo online per eseguire codice Python.
+- Jupyter Notebook (.ipynb): formato di file utilizzato per organizzare il codice in celle, con testo e risultati integrati.
+
 # Nota: 
 Potrebbero esserci problemi di inconsistenza tra le versioni delle librerie python installate su Colab e sul proprio PC: se ci fossero questi problemi bisognerà aggiornarle all'ultima versione in entrambi gli ambienti per avere un corretto funzionamento del modello.
 
