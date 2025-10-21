@@ -7,8 +7,9 @@ All'interno della repository è possibile trovare la documentazione ([ObesityPre
 
 ## Autori
 <a href="https://github.com/Rokuoganz/ObesityPredictor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Rokuoganz/ObesityPredictor/" />
+  <img src="https://contrib.rocks/image?repo=Rokuoganz/ObesityPredictor" />
 </a>
+
 * [Francesco Ferrara](https://github.com/Rokuoganz)
 
 # Nota: 
